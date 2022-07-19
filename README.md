@@ -1,22 +1,12 @@
-<h1 align="center">Hello there 👋</h1>
+### Hello there 👋
+
+<img align="right" width="300" height="300" src="Assets/cat.jpg"  />
+
+✨ Creating bugs since 2017<br>📚 I'm currently studying at the Federal University of Sergipe and at <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a><br>🎲 Fun fact: I'm a dev but i don't like coffee <br> 😄 Pronouns: He/Him <br> 📫 How to reach me: <a href="mailto: vianaxd99@gmail.com">✉</a>
 
 ###
 
-<div align="center">
-  <img height="300" src="Assets/cat.jpg"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently studying at the Federal University of Sergipe and at <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a><br>🎲 Fun fact: I'm a dev but i don't like coffee <br> 😄 Pronouns: He/Him <br> 📫 How to reach me: <a href="mailto: vianaxd99@gmail.com">✉</a></p>
-
-###
-
-<h2 align="left">I'm coding/learning</h2>
+I'm coding/learning
 
 ###
 
@@ -30,7 +20,7 @@
 
 ###
 
-<h2 align="left">I'm also interested in</h2>
+I'm also interested in
 
 ###
 
