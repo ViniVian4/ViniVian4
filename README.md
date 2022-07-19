@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"  />
+  <img height="300" src="Assets/cat.jpg"  />
 </div>
 
 ###
