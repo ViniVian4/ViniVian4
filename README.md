@@ -4,7 +4,7 @@
 
 ✨ Creating bugs since 2017<br>📚 I'm currently studying at the Federal University of Sergipe and at <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a><br>🎲 Fun fact: I'm a dev but i don't like coffee <br> 😄 Pronouns: He/Him <br> 📫 How to reach me: <a href="mailto: vianaxd99@gmail.com">✉</a>
 
-### I'm coding/learning
+### Main technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="javascript logo"  />
@@ -13,17 +13,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="50" alt="node logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="50" alt="postgre logo" />
-          
-          
-          
 </div>
 
-### I'm also interested in / have worked with
+### I'm also interested in
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="50" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="python logo"  />
+</div>
+
+### Other technologies i've worked with
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="50" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="50" alt="heroku logo"/>
+          
 </div>
 
 ##
